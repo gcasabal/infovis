@@ -1,2 +1,2 @@
 # infovis
-Trabajos de la visualizacion
+Trabajos de visualizacion
